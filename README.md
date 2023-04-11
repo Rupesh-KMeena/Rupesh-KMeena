@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Rupesh Kumar Meena</h1>
 <h3 align="center">A passionate Machine Learning Engineer.</h3>
 
