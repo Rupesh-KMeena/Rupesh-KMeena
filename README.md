@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh-kmeena&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh-kmeena" /> </p>
 
-- 🔭 I’m currently working on [Fog Prediction](https://fog.iitk.ac.in/fog-prediction/)
+- 🔭 I’m currently working on [Fog Prediction.](https://fog.iitk.ac.in/fog-prediction/)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - ⚡ Fun fact **I am funny 😅**
 
